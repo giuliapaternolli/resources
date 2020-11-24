@@ -76,3 +76,5 @@ Vieux Fort Quarter
 White City
 Yerevan
 ```
+
+(72 rows)
